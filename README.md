@@ -1,2 +1,2 @@
-# Python_lerning
+# Python
 My Python lerning journey
