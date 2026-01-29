@@ -1,0 +1,6 @@
+python -m PyQt6.uic.pyuic -x Anasayfa.ui -o Anasayfa.py
+python -m PyQt6.uic.pyuic -x giris.ui -o giris.py
+python -m PyQt6.uic.pyuic -x kayit.ui -o kayit.py
+python -m PyQt6.uic.pyuic -x sepet.ui -o sepet.py
+python -m PyQt6.uic.pyuic -x bilgi.ui -o bilgi.py
+
