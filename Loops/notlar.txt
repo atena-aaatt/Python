@@ -1,0 +1,15 @@
+MATEMATİKSEL OPERATÖRLER
+<  Değerden küçük
+>  Değerden büyük
+<= Değere Eşit veya küçük
+>= Değere Eşit veya büyük
+== Gerçek Eşitlik
+=  Atama operatörü
+!= Farklı, Değil (~ Değil kullanılabilir)
+%  Kalanlı Bölme (Mod)
+// Tam bölme > bölümün tam kısmını alır
+** Üs Alma  > pow(sayi, us)
+
+MANTIKSAL OPERATÖRLER
+and  VE operatörü (Tüm şartların tutması durumunda çalışır)
+or   VEYA operatörü (Şartlardan sadece birisinin tutması gerekir)
